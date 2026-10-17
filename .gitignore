@@ -1,0 +1,26 @@
+# Local credentials and personal runtime data
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.jks
+*.keystore
+local.properties
+.idea/
+.vscode/
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+classes/
+*.class
+build/
+dist/
+chat_logs/
+server_history/
+server_files/
+user_avatars/
+user_downloads/
